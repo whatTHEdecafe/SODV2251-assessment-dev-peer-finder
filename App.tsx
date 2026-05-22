@@ -7,6 +7,7 @@ export default function App() {
       <Text style={styles.title}>Dev Peer Finder</Text>
       <Text style={styles.text}>
         A mobile app for finding developers nearby.
+        Coming soon!
       </Text>
       <StatusBar style="auto" />
     </View>
